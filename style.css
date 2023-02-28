@@ -1,0 +1,73 @@
+html {
+    background-color: rgb(28, 26, 53);
+}
+
+span.separa {
+    visibility: hidden;
+}
+
+h1.otracosa {    
+    background-color: rgba(162, 168, 164, 0.993);
+   }
+
+button.btn-primary:hover {
+    color: rgb(252, 24, 24);
+
+}
+
+img{
+    margin: 0px;
+    border: 0px;
+}
+.boton {
+    color:blue;
+    /*position: fixed;*/
+    /*padding: 10px 1px;*/
+    /*text-align: center;*/
+    font-size: 12px;
+    /*width:2800px;*/
+    text-shadow: 0px 0px 0px rgb(0, 0, 0);
+    background-color: rgb(97, 108, 129);
+    padding: 10px ;
+    border: solid 1px rgb(24, 252, 43);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: solid 2px blue;
+    
+    
+}
+
+
+img.aligned {
+    box-shadow: color black 10px 10px 5px;
+}
+
+     
+h1.subtitulo {
+    font-family: 'Bebas Neue', cursive;
+    background-color: rgb(30, 40, 133);
+    color:azure;
+    position: fixed;
+    width:100%;
+    text-shadow: 5px 5px 7px rgb(32, 31, 31);
+    padding: 10px ; /*padding-left: 20px;*/
+    margin: 0px;
+    width: 100%;
+    border: 1px solid rgb(0, 0, 0);
+    text-size-adjust: 12px;
+
+   }
+   
+footer {
+    position: fixed;
+    font-family: 'Bebas Neue', cursive;
+    color: rgb(228, 224, 217);
+    background-color: rgba(20, 18, 17, 0.938);
+    
+   }
+   
+
+
+h1.otracosa {
+    padding: 50px
+
+}
