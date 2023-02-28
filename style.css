@@ -1,17 +1,44 @@
 html {
     background-color: rgb(28, 26, 53);
+    
 }
 
 span.separa {
     visibility: hidden;
+
+}
+
+span.anos {
+    text-align: right;
+    margin-top: -1px;
+    border-top: -4px;
+    font-size: 48px;
+    
 }
 
 h1.otracosa {    
-    background-color: rgba(162, 168, 164, 0.993);
+    background-color: rgba(129, 184, 194, 0.993);
    }
 
 button.btn-primary:hover {
     color: rgb(252, 24, 24);
+
+}
+
+
+
+h1.pie {
+    font-family: 'Bebas Neue', cursive;  
+    background-color: rgb(30, 40, 133);
+    color:azure;
+    text-shadow: 5px 5px 7px rgb(32, 31, 31);
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    font-size: 20px;
+    border: 1px solid rgb(0, 0, 0);
+    text-align: top;
+    text-align: center;
 
 }
 
@@ -43,7 +70,7 @@ img.aligned {
 
      
 h1.subtitulo {
-    font-family: 'Bebas Neue', cursive;
+    font-family: 'Bebas Neue', cursive;    
     background-color: rgb(30, 40, 133);
     color:azure;
     position: fixed;
@@ -53,7 +80,7 @@ h1.subtitulo {
     margin: 0px;
     width: 100%;
     border: 1px solid rgb(0, 0, 0);
-    text-size-adjust: 12px;
+    text-size-adjust: 1px;
 
    }
    
