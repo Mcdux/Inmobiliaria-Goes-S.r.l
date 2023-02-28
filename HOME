@@ -3,13 +3,13 @@
 
 <head>
 
-  	<img class="aligned" src="https://github.com/Mcdux/Inmobiliaria-Goes-S.r.l/blob/main/LOGOPAWEB.png" width="80
-        " > 
+  	
     
 	<title> INMOBILIARIA GOES S.R.L </title>
     <link rel="stylesheet" href="style.css">
 
     <h1 class="subtitulo"> 
+    <a href="link address"> <img src="https://github.com/Mcdux/Inmobiliaria-Goes-S.r.l/blob/main/LOGOPAWEB.png?raw=true" style="width:60px"></a>
         
        
         INMOBILIARIA GOES <br> Administracion y venta de propiedades <br>
