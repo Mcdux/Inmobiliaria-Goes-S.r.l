@@ -1,2 +1,124 @@
-# Inmobiliaria-Goes-S.r.l
-Pagina de Inmobiliaria Goes, pruebas de levantamiento
+<!DOCTYPE html>
+<html>
+
+<head>
+
+  
+    
+	<title> INMOBILIARIA GOES S.R.L </title>
+    <link rel="stylesheet" href="style.css">
+
+    <h1 class="subtitulo"> 
+        
+        <img class="aligned" src="\\maquina2\Mis documentos maq.2\Camilo Bordon\PAGINA INMOB\css\LOGOPAWEB.png" width="80
+        " > 
+        INMOBILIARIA GOES <br> Administracion y venta de propidedes <br>
+         <button type="button" class="btn btn-primary">GARANTIAS</button>
+         <button type="button" class="btn btn-primary">INQUILINOS</button>
+         <button type="button" class="btn btn-primary">CONTACTO </button>
+         <button type="button" class="btn btn-primary">LISTADO </button>
+         <button type="button" class="btn btn-primary">FOTOS</button>
+         <button type="button" class="btn btn-primary">CONSULTAS</button>
+         <!--
+              <span type="button" class="boton"> GARANTIAS  </span>
+              <span class="separa"> - </span>
+              <span class="boton"> INQUILINOS  </span>
+              <span class="separa"> -  </span>
+              <span class="boton"> CONTACTO  </span>
+              <span class="separa"> -  </span>
+              <span class="boton"> LISTADO  </span>
+              <span class="separa"> -  </span>
+              <span class="boton"> FOTOS  </span> -->
+
+    </h1>  
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet"> 
+
+   
+</head>
+
+<body>
+
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    
+    <h1 class="otracosa">  
+        <img class="aligned" src="\\maquina2\Mis documentos maq.2\Camilo Bordon\PAGINA INMOB\css\ANDA+LOGO+small.png" width="300" > 
+         
+            <span> 
+                Documentacion a presentar
+                Cedula de Identidad (vigente y en buen estado) y ultimos tres recibos de sueldo (en caso de percibir comisiones, horas extras o partidas variables deberás presentar seis recibos (correspondientes a seis meses), pasividad o constancia de ingresos.
+                Para trámite presencial descargar el formulario de Inicio de trámite, el cual deberá ser firmado por el propietario o administrador. Luego deberás presentarlo con la documentación solicitada en nuestras oficinas.</span>
+       
+    </h1>   
+    <h1 class="otracosa"> 
+        <img class="aligned" src="\\maquina2\Mis documentos maq.2\Camilo Bordon\PAGINA INMOB\css\logo-porto-seguro-512.png" width="300" > 
+        <span>Hasta 5 personas pueden sumar sus ingresos para una misma solicitud. La documentación se recibe vía WhatsApp y es la siguiente, dependiendo de la actividad que realiza el inquilino:</span>
+    </h1>
+    <h1 class="otracosa"> 
+        <img class="aligned" src="\\maquina2\Mis documentos maq.2\Camilo Bordon\PAGINA INMOB\css\FIDECIU.png" width="300" > 
+        <span> CONDICIONES PARA OBTENER LA GARANTÍA:
+            Ser mayor de 18 años.
+            Documento de identidad vigente.
+            
+            DEPENDIENTES:
+            Antigüedad mínima de 6 meses en el trabajo, o ser Pasivo o Pensionista
+            3 Últimos recibos de sueldo asalariado mensual, o 6 últimos recibos en otros casos.
+            Si es pasivo o pensionista, último recibo de cobro.
+            No estar en el clearing de informes (no excluyente, se analiza cada caso).
+            Ser socio COMAG (afiliación automática al momento de la firma del contrato).
+            
+            INDEPENDIENTES:
+            Certificado de ingresos por Contador de los últimos 12 meses líquido mensual.
+            Certificado de estar al día en BPS y DGI.
+            Formulario 6351 y 6361.
+            Último balance presentado.
+            Depósito aval.
+            
+            
+            Atención personalizada de un equipo capacitado para entender y solucionar tu caso particular.</span>        
+    </h1>
+    <h1 class="otracosa"> 
+        <img class="aligned" src="\\maquina2\Mis documentos maq.2\Camilo Bordon\PAGINA INMOB\css\ESTO ES CGN.jpg" width="300" > 
+       <span>Quiénes pueden hacer uso de la Garantía Estatal:
+
+        Funcionarios Públicos con 6 meses de antigüedad.
+        Empleados de Empresas Privadas, inscriptas en el registro del SGA, con 6 meses de antigüedad.
+        Jubilados y Pensionistas.
+        Beneficiarios del Convenio con el Ministerio de Vivienda y Ordenamiento Territorial  (MVOT).
+        Beneficiarios del Subsidio del Banco de Previsión Social (BPS).
+        Beneficios del uso del SGA:
+        
+        Trámites sin costo.
+        Los usuarios de nuestra garantía tienen el beneficio del descuento directamente en su recibo de sueldo.
+        Sin cuota de afiliación.
+        Sin costo por la firma del contrato.
+        Los usuarios MVOT deben abonar el alquiler en la Red de Pagos Abitab de todo el país.</span>
+    </h1>
+    
+    
+    <img class="aligned" src="\\maquina2\Mis documentos maq.2\Camilo Bordon\PAGINA INMOB\css\CIU.png" width="300" >    
+    <h1 class="pie">
+        <p> Whatsapp: 095790401 </p>  <br>
+        <p> Mail:inmgoes@adinet.com.uy </p>
+        <h1>
+    
+    
+        
+</body>
+
+<footer>
+    
+     
+    
+   
+</footer>
+</html>
